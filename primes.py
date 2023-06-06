@@ -17,7 +17,7 @@ int_init_num = False
 int_max_num = False
 is_prime = False
 grothendieck = False
-
+# debugs
 debug = False
 debug_order = 0
 # main
